@@ -3,7 +3,7 @@
 antsBuildInstructions="https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS"
 
 # Number of threads used by make
-buildThreads=4
+buildThreads=1
 
 echo "
 This script will download ANTs, build and install under the current directory. 
