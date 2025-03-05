@@ -28,9 +28,9 @@ workingDir=${PWD}
 git clone https://github.com/ANTsX/ANTs.git
 
 # If you want to build a particular release, do so here
-# cd ANTs
-# git checkout v2.3.1
-# cd -
+cd ANTs
+git checkout v2.5.4
+cd -
 
 # Where to build, should be an empty directory
 buildDir=${workingDir}/build
